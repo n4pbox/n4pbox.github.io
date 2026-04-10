@@ -29,8 +29,8 @@ Bem-vindo ao servidor! Para garantir a organização e a diversão de todos, é 
   * Skins de Outfitter com nudez explícita, genitália ou atos sexuais
   * Qualquer outro meio de conteúdo pornográfico ou extremamente sexualizado. 💣
 
-* **2.2** - **Playermodels borderline NSFW** (roupas reveladoras, sensuais ou levemente sexualizadas) são **permitidos**, **desde que**:
-  - Não contenham nudez explícita ou conteúdo pornográfico;
+* **2.2** - **Playermodels borderline NSFW** são **permitidos**, **desde que**:
+  - Não contenham nudez explícita;
   - Caso qualquer jogador reclame ou se sinta desconfortável com o playermodel de outro jogador, o dono **deve remover imediatamente** o playermodel.
   - A administração pode, a seu critério, solicitar a remoção de um playermodel mesmo sem reclamação se julgar excessivo.
   - Recusar-se a remover um playermodel após reclamação ou solicitação da staff resulta em punição. 🟡 → 🟠 → 🔴
