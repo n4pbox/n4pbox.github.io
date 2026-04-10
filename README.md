@@ -26,8 +26,8 @@ Bem-vindo ao servidor! Para garantir a organização e a diversão de todos, é 
 
 * **2.1** - É **VETADO** qualquer tipo de conteúdo **explicitamente NSFW** (Not Safe For Work), incluindo:
   * Sprays
-  * Skins de Outfitter com nudez explícita, genitália ou atos sexuais
-  * Qualquer outro meio de conteúdo pornográfico ou extremamente sexualizado. 💣
+  * Skins de Outfitter com nudez explícita ou atos sexuais
+  * Qualquer outro meio de conteúdo pornográfico. 💣
 
 * **2.2** - **Playermodels borderline NSFW** são **permitidos**, **desde que**:
   - Não contenham nudez explícita;
