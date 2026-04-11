@@ -21,6 +21,7 @@ Bem-vindo ao servidor! Para garantir a organização e a diversão de todos, é 
 * **1.1** - É **VETADO** qualquer tipo de preconceito (racismo, homofobia, xenofobia, etc.). 💣
 * **1.2** - É **repudiado** qualquer comportamento tóxico ou ilegal no servidor. Exemplos incluem, mas não se limitam a: perseguir jogadores, xingamentos muito pesados e incentivar suicídio. 🔴 ou 💣
 * **1.3** - É **VETADO** qualquer tipo de perseguição a outro jogador. 💣
+* **1.4** - Ragebait excessivo não será tolerado, você não é engraçado. 🔴
 
 ## §2 - Conteúdo
 
