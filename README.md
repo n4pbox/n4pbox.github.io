@@ -7,9 +7,8 @@
 
 ---
 
-### 2. Combate, Traps & Wiremod (Kill)
+### 2. Modo Build & Wiremod (Kill)
 * É proibido dupes/construções/sistemas que incapacitem e/ou imobilizem um jogador de maneira arbitrária e ofensiva, como por exemplo (mas não limitado à:) jail, spawnkill etc.
-* **Armadilhas de Base LIBERADAS:** Armadilhas na sua própria base (traps, portas falsas, mecanismos temporários de defesa) são permitidas.
 * **Modo Build:** Quer construir em paz sem morrer? **Ligue o modo build** (god mode + noclip). Se ficar fora dele, está por sua conta e risco.
 
 ---
