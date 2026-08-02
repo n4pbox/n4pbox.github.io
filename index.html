@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Sandbox - Regras</title>
+    <!-- Fonte futurista Orbitron importada do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #08090d;
+            background-image: 
+                radial-gradient(circle at 50% 20%, rgba(200, 120, 30, 0.15), transparent 60%),
+                radial-gradient(circle at 50% 80%, rgba(10, 15, 25, 0.8), #040507);
+            color: #e0e6ed;
+            font-family: 'Rajdhani', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 480px;
+            background: rgba(15, 18, 26, 0.85);
+            border: 1px solid rgba(220, 140, 40, 0.4);
+            box-shadow: 0 0 25px rgba(200, 120, 20, 0.15),
+                        inset 0 0 15px rgba(0, 0, 0, 0.8);
+            border-radius: 4px;
+            backdrop-filter: blur(8px);
+            overflow: hidden;
+        }
+
+        .header {
+            text-align: center;
+            padding: 25px 20px 15px 20px;
+            border-bottom: 2px solid;
+            border-image: linear-gradient(to right, transparent, #e67e22, transparent) 1;
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .server-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
+            letter-spacing: 4px;
+            color: #8a99ad;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+
+        .rules-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.2rem;
+            font-weight: 900;
+            letter-spacing: 6px;
+            color: #ffffff;
+            text-shadow: 0 0 12px rgba(255, 255, 255, 0.5),
+                         0 0 20px rgba(230, 126, 34, 0.3);
+            text-transform: uppercase;
+        }
+
+        .rules-list {
+            list-style: none;
+        }
+
+        .rule-item {
+            padding: 18px 22px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            font-size: 1.15rem;
+            font-weight: 600;
+            line-height: 1.4;
+            letter-spacing: 0.5px;
+            color: #d1d8e0;
+            transition: background 0.2s ease;
+        }
+
+        .rule-item:last-child {
+            border-bottom: none;
+        }
+
+        .rule-item:hover {
+            background: rgba(230, 126, 34, 0.05);
+        }
+
+        .rule-number {
+            font-family: 'Orbitron', sans-serif;
+            color: #f39c12;
+            font-weight: 700;
+            min-width: 24px;
+        }
+
+        .rule-text strong {
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <div class="server-title">Nexus Sandbox</div>
+            <h1 class="rules-title">RULES</h1>
+        </div>
+
+        <ul class="rules-list">
+            <li class="rule-item">
+                <span class="rule-number">1.</span>
+                <span class="rule-text">Respeite os outros membros</span>
+            </li>
+            <li class="rule-item">
+                <span class="rule-number">2.</span>
+                <span class="rule-text">Spawnkill/Jail/Blinder via E2 <strong>NÃO</strong> é permitido</span>
+            </li>
+            <li class="rule-item">
+                <span class="rule-number">3.</span>
+                <span class="rule-text">Proibido realizar Travamentos ou Crashes intencionais no servidor</span>
+            </li>
+            <li class="rule-item">
+                <span class="rule-number">4.</span>
+                <span class="rule-text">Tenha senso comum! Se algo parece errado provavelmente é mesmo!</span>
+            </li>
+            <li class="rule-item">
+                <span class="rule-number">5.</span>
+                <span class="rule-text">A decisão da staff é final e as regras acima estão sujeitas a adaptações e/ou mudanças a depender do contexto.</span>
+            </li>
+        </ul>
+    </div>
+
+</body>
+</html>
